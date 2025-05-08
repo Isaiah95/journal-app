@@ -1,0 +1,25 @@
+:root{
+    font-family: sans-serif;
+   
+    
+}
+
+form {
+    padding: 10%;
+    margin: 5%;
+    border: black solid 1px;
+    color: white;
+}
+
+.entries {
+    box-shadow: black 0px 0px 5px;
+    margin-top: auto;
+    padding: 5%;
+}
+.darkmode {
+    background-color: black;
+    color: white;
+}
+.entries:hover {
+    cursor: pointer;
+}
